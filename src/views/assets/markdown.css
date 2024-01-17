@@ -277,6 +277,7 @@ a.link-text:hover {
   background-color: var(--linkhov-color);
 }
 p.marked-title-center {
+  margin: 25px 0;
   display: flex;
   justify-content: center;
 }
@@ -341,7 +342,7 @@ span.marked-color-lamp::after {
   animation: lamp-front linear 4s infinite;
 }
 div.code-pre-block {
-  margin-top: 25px;
+  margin: 25px 0;
   padding-top: 15px;
   border-radius: 5px;
   position: relative;
